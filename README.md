@@ -22,9 +22,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
