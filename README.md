@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
