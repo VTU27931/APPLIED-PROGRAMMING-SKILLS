@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0977-squares-of-a-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
