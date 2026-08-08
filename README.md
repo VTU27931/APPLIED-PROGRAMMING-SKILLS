@@ -71,9 +71,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0023-merge-k-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0021-merge-two-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
