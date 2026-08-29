@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0946-validate-stack-sequences) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Math
