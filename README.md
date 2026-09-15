@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0704-binary-search) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0239-sliding-window-maximum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -165,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0459-repeated-substring-pattern) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
