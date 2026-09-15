@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0459-repeated-substring-pattern) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Queue
 |  |
@@ -152,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0232-implement-queue-using-stacks) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
