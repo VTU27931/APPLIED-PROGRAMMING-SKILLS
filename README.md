@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0796-rotate-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/VTU27931/APPLIED-PROGRAMMING-SKILLS/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
